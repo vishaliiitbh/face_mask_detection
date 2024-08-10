@@ -28,3 +28,9 @@ dataset/
 ## Results
 After running the real-time detection, the application will display a window with the live video feed from your webcam.
 Detected faces will be marked with a rectangle and labeled with the prediction ("Mask" or "No Mask").
+
+![accuracy](https://github.com/user-attachments/assets/e8433c05-d93e-476b-a9df-52180636b64e)
+
+![loss function](https://github.com/user-attachments/assets/421601c8-400e-4046-a290-59c7f41cfb27)
+
+
