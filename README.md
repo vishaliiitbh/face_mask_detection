@@ -3,17 +3,6 @@
 This project aims to detect whether a person is wearing a face mask in real-time using a webcam. The model is built using TensorFlow and Keras, 
 and it leverages a Convolutional Neural Network (CNN) trained on a dataset of masked and unmasked faces.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Training the Model](#training-the-model)
-- [Real-Time Mask Detection](#real-time-mask-detection)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 
 Face mask detection is a crucial task, especially during pandemics, to ensure that people are following safety protocols. 
